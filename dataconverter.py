@@ -1,3 +1,5 @@
+# Simple Python program that converts CSV to JSON for my MongoDB project.
+# - It converts all the csv files under the directory at once.
 import csv
 import json
 import glob
